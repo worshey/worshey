@@ -21,7 +21,6 @@
 
 [<img align="left" alt="worshey | LinkedIn" width="30px"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="worshey | Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
-[<img align="left" alt="worshey | steam" width="30px" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" />][steam]
 
 <br />
 <br />
