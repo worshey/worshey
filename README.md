@@ -1,58 +1,79 @@
-## Hello, World! 🌎
-<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="15px"/> </h3> 
-<h3 align="center">This is the place where I manage to break things up 😅</h3> 
+<!--Welcome Section, folders, presentation-->
 
-<br />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-**About me**
-    
-- 🔧 I'm a almost a front-end developer. 
-- 📫 How to reach me: [@worshey][linkedin]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,world!🌎;+you+can+call+me+worshey!;I'm+20yo;I'm+from+brazil+🇧🇷;You're+Welcome!)](https://git.io/typing-svg)
+<!--Introduction menu-->
+<div align="center">
+  
+  ## About me
+</div>
 
-<a href="https://github.com/worshey">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=worshey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=issues&theme=radical" alt="Gustavo's GitHub Stats" />
-</a>
+<div align="center">
 
-<a href="https://github.com/worshey">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worshey&layout=compact&hide_border=true&theme=radical" alt="Gustavo's Used Languages" />
-</a>
+  💻 Systems Analysis and Development - IFG, Brazil
+   ‎‎ ‎   /  ‎ ‎ ‎🔭 Currently work for ?
+  
+  
+    ‎ | ‎ 👀 Hiper-Interested on Ethical Hacking🕵🏼‍♂️🪤!!
+  
+  💻Always looking games for moding😮🥵 ‎ | ‎ 🐎 Pronouns: he/him
+  
+ ![Nier Automata GIF](https://media.tenor.com/wXTBjfz4VlQAAAAj/nier-automata.gif)
+</div>
 
-### Connect with me:
 
-[<img align="left" alt="worshey | LinkedIn" width="30px"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="worshey | Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 
-<br />
-<br />
+<!--Here is my section of Cards of GitHub Stats, feel free to look-->
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=worshey&show_icons=true&theme=cobalt)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worshey&layout=compact)
+</div>
 
-### Languages and Tools:
-<p align="left"> 
-  <a href="https://www.dev.java.com" target="_blank"> 
-            <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40"/> 
-    </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/> 
-</p>
-    </p>    
-    <p align="right">
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/worshey"> 
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LucasHBG" />
-    </a>
-</p>
+<!--My programming skills part-->
+<div align="center">
+  
+  ## Main Skills
+</div>
 
-<br><br>
+<div align="center">
+  
+<!--C-->
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+      <i class="devicon-c-plain-wordmark small-icon"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="65" height="65" />
 
-[java]:         https://dev.java/
-[react]:        https://create-react-app.dev/docs/adding-typescript/
-[docker]:       https://www.docker.com
-[nextjs]:       https://nextjs.org/
-[flutter]:      https://flutter.dev
-[linkedin]:     https://www.linkedin.com/in/worshey/
-[instagram]:    https://www.instagram.com/worshey/
-[steam]:        https://www.steamcommunity.com/id/mrheartbroken
-[twitch]:       https://www.twitch.tv/worshey
-[youtube]:      https://www.youtube.com/@worshey
+<!--C#-->
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+      <i class="devicon-csharp-plain"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="65" height="65" />
+
+<!--HTML5-->
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <i class="devicon-html5-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" height="65"/>                   
+</div>
+
+<div align="center">
+  
+## Currently studying 
+<!--Python-->
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <i class="devicon-python-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65" height="65"/>
+
+<!--Awk Bullshit Linux-->
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+      <i class="devicon-awk-plain-wordmark"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/awk/awk-original-wordmark.svg" width="65" heihgt="65" />                                       
+</div>
+
+<div align="center">
+  
+## Projects that you might like
+
+soon 👀
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
