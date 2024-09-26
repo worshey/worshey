@@ -15,7 +15,7 @@
    ‎‎ ‎   /  ‎ ‎ ‎🔭 Currently work for ?
   
   
-    ‎ | ‎ 👀 Hiper-Interested on Ethical Hacking🕵🏼‍♂️🪤!!
+    ‎ | ‎ 👀 Hiper-Interested on Ethical Hacking 🕵🏼‍♂️
   
   🎮 The best CS and Fortnite player | ‎ 💜 Love anime
   
