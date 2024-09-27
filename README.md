@@ -17,14 +17,8 @@
   💻 Systems Analysis and Development - IFG, Brazil
    ‎‎ ‎   /  ‎ ‎ ‎🔭 Currently work for ?
   
-  
     ‎ | ‎ 👀 Hiper-Interested on Ethical Hacking 🕵🏼‍♂️
- <!--linha-->
-<div align="center">
 
-  ##
- 
-</div> 
   🎮 The best CS and Fortnite player | ‎ 💜 Love anime
  <!--linha-->
 <div align="center">
