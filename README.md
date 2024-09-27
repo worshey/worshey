@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -20,10 +19,20 @@
   
   
     ‎ | ‎ 👀 Hiper-Interested on Ethical Hacking 🕵🏼‍♂️
-  
-  🎮 The best CS and Fortnite player | ‎ 💜 Love anime
+ <!--linha-->
+<div align="center">
+
+  ##
  
- <img align="center" alt="" src="./src/header-gif.gif">
+</div> 
+  🎮 The best CS and Fortnite player | ‎ 💜 Love anime
+ <!--linha-->
+<div align="center">
+
+  ##
+ 
+</div>
+<img align="right" alt="" height="110px" src="./src/study.gif">
 
 </div>
 
@@ -44,19 +53,9 @@
   <img width="8" />
 
 
-<!--linha-->
-<div align="center">
-
-  ##
- 
-</div>
 
 
-<div align="center">
 
-![Nier Automata GIF](https://media.tenor.com/wXTBjfz4VlQAAAAj/nier-automata.gif)
-
-</div>
 
 <!--linha-->
 <div align="center">
@@ -69,7 +68,7 @@
 
 <!--git status-->
 <div style="text-align: center;" align="center">
-  <br>
+ <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=worshey&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/worshey/github-readme-stats">
@@ -94,6 +93,16 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--linha-->
+<div align="center">
 
+  ##
+ 
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<div align="center">
+
+![Nier Automata GIF](https://media.tenor.com/wXTBjfz4VlQAAAAj/nier-automata.gif)
+
+</div>
+
