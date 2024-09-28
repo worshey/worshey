@@ -13,20 +13,27 @@
   </a>
 </div>
 
+<!--linha-->
+  <div align="center">
+
+  ##
+ 
+  </div>
+
 <!-- Sobre mim -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=About+me" alt="Typing SVG">
   </a>
 </div>
-
+<img align="right" alt="" height="110px" src="./src/study.gif">
 <div align="center">
   
      ‎  💻 Systems Analysis and Development at IFG
        🎮 The best CS and Fortnite player
        💜 Love anime
  
-  ![Nier Automata GIF](https://media.tenor.com/wXTBjfz4VlQAAAAj/nier-automata.gif)
+
 
 <!--linha-->
   <div align="center">
@@ -90,7 +97,7 @@
   </a>
 </div>
 
-
+  ![Nier Automata GIF](https://media.tenor.com/wXTBjfz4VlQAAAAj/nier-automata.gif)
 
 
 
