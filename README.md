@@ -31,7 +31,7 @@
   
      ‎  💻 Systems Analysis and Development at IFG
        🎮 The best CS and Fortnite player
-       💜 Love anime
+       💜 I watch some Japanese cartoons
  
 
 
