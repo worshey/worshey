@@ -30,8 +30,8 @@
 <div align="center">
   
      ‎  💻 Systems Analysis and Development at IFG
-       🎮 The best CS and Fortnite player
-       💜 I watch some Japanese cartoons
+       🎮 the best CS player from jatas
+       💜 I like some japanese cartoons
  
 
 
