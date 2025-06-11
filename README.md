@@ -1,7 +1,6 @@
 <!-- introdução -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=Hello,world!🌎" alt="Typing SVG">
   </a>
 </div>
@@ -90,7 +89,6 @@
 
 <!-- Obrigado por vir -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=Thanks+for+coming!!👋🏻" alt="Typing SVG">
   </a>
 </div>
