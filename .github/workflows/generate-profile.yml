@@ -41,3 +41,4 @@ jobs:
             git commit -m "chore: update profile SVGs [skip ci]"
             git push
           fi
+
