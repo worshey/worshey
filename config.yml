@@ -1,0 +1,78 @@
+# Galaxy Profile README Configuration
+# Fork this repo and customize this file to make it your own!
+
+username: worshey
+
+profile:
+  name: "Gustavo Santos"
+  tagline: "Software Developer"
+  company: "Free Agent"
+  location: "Brazil"
+  bio: |
+    Building robust systems and crafting elegant solutions.
+  philosophy: 'Every line of code is a star in the galaxy of software. I strive to make each one shine brightly.'
+
+social:
+  email: "worshey154@gmail.com"
+  linkedin: "worshey"
+  website: ""
+
+# Galaxy arms represent your core focus areas
+# Each arm spirals out from the center with its own color and tech items
+galaxy_arms:
+  - name: "Languages & Cloud"
+    color: "dendrite_violet"
+    items:
+      - "Java"
+      - "JavaScript"
+      - "AWS / Oracle"
+  - name: "Data"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "MySQL"
+  - name: "Automation"
+    color: "axon_amber"
+    items:
+      - "DevOps"
+      - "Linux"
+      - "Docker"
+
+# Featured projects shown as constellation stars
+projects:
+  - repo: "worshey/TADS"
+    arm: 0
+    description: "A Jornada do Protagonista Acadêmico"
+  - repo: "worshey/sistema-monitoramento"
+    arm: 1
+    description: "Solução inteligente para portarias"
+
+# Theme color overrides (optional — defaults to deep space palette)
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+# Stats configuration
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
